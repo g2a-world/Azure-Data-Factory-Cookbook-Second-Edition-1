@@ -14,26 +14,5 @@ StormEvents
 
 ## Create table for JSON file in ADX:
 ```
-.create table Orders (
-    [Row ID] long,
-    [Order ID] string,
-    [Order Date] datetime,
-    [Ship Date] datetime,
-    [Ship Mode] string,
-    [Customer ID] string,
-    [Customer Name] string,
-    Segment string,
-    [Country/Region] string,
-    City string,
-    State string,
-    [Postal Code] long,
-    Region string,
-    [Product ID] string,
-    Category string,
-    [Sub-Category] string,
-    Sales real,
-    Quantity int,
-    Discount real,
-    Profit real
-)
+.create table bio (name: string, language: string, ['id']: string, bio: string, ['version']: real) 
 ```
