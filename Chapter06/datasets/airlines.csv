@@ -1,0 +1,301 @@
+ID,Name,Code,Country
+1,Private flight,N/A,
+2,135 Airways,GNL,United States
+3,1Time Airline,RNX,South Africa
+4,2 Sqn No 1 Elementary Flying Training School,WYT,United Kingdom
+5,213 Flight Unit,TFU,Russia
+6,223 Flight Unit State Airline,CHD,Russia
+7,224th Flight Unit,TTF,Russia
+8,247 Jet Ltd,TWF,United Kingdom
+9,3D Aviation,SEC,United States
+10,40-Mile Air,MLA,United States
+11,4D Air,QRT,Thailand
+12,611897 Alberta Limited,THD,Canada
+13,Ansett Australia,AAA,Australia
+14,Abacus International,,Singapore
+15,Abelag Aviation,AAB,Belgium
+16,Army Air Corps,AAC,United Kingdom
+17,Aero Aviation Centre Ltd.,AAD,Canada
+18,Aero Servicios Ejecutivos Internacionales,SII,Mexico
+19,Aero Biniza,BZS,Mexico
+20,Aero Albatros,ABM,Spain
+21,Aigle Azur,AAF,France
+22,Aloha Airlines,AAH,United States
+23,Alaska Island Air,AAK,United States
+24,American Airlines,AAL,United States
+25,Aviation Management Corporation,AAM,United States
+26,Atlantis Airlines (USA),AAO,United States
+27,Aerovista Airlines,AAP,United Arab Emirates
+28,Asiana Airlines,AAR,Republic of Korea
+29,Askari Aviation,AAS,Pakistan
+30,Australia Asia Airlines,AAU,Australia
+31,Astro Air International,AAV,United States
+32,Afriqiyah Airways,AAW,Libya
+33,Afrinat International Airlines,AFU,Gambia
+34,Afric'air Express,AAX,Ivory Coast
+35,Allegiant Air,AAY,United States
+36,Angus Aviation,AAZ,Canada
+37,Artem-Avia,ABA,Ukraine
+38,African Business and Transportations,ABB,Democratic Republic of the Congo
+39,Aban Air,ABE,Iran
+40,Aerial Oy,ABF,Finland
+41,Abakan-Avia,ABG,Russia
+42,ABSA - Aerolinhas Brasileiras,TUS,Brazil
+43,Abaet,ABJ,Brazil
+44,Alberta Citylink,ABK,Canada
+45,APSA Colombia,ABO,Colombia
+46,Aerovias Bueno,ABU,Colombia
+47,Aerocenter,ACR,AEROCENTER
+48,Antrak Air,ABV,Ghana
+49,Airborne Express,ABX,United States
+50,ABX Air,ABX,United States
+51,ATA Brasil,ABZ,Brazil
+52,Avcard Services,ACC,United Kingdom
+53,Academy Airlines,ACD,United States
+54,Aero Comondu,ACO,Mexico
+55,Astral Aviation,ACP,Kenya
+56,Air Cess,ACS,Liberia
+57,Air Aurora,AAI,United States
+58,Air Cargo Transportation System,ACU,Kenya
+59,Air Charter Service,ACV,United Kingdom
+60,Aero Asia International,RSO,Pakistan
+61,Air Charters,ACX,Canada
+62,Air Togo,TGA,Togo
+63,Air Somalia,RSM,Somali Republic
+64,Atlas Cargo Lines,ACY,Morocco
+65,Airservices Australia,ADA,Australia
+66,Advance Leasing Company,,United States
+67,Aztec Worldwide Airlines,,United States
+68,Air Tindi,,Canadian Territories
+69,Antonov Airlines,ADB,Ukraine
+70,Air Atlantic Dominicana,ADC,Dominican Republic
+71,Advanced Air Co.,ADD,Japan
+72,Ada Air,ADE,Albania
+73,Aerea Flying Training Organization,ADG,Spain
+74,Audeli Air,ADI,Spain
+75,Abicar,ADJ,Ivory Coast
+76,ADC Airlines,ADK,Nigeria
+77,Aero Dynamics,ADL,United Kingdom
+78,Aerolineas Dominicanas,ADM,Dominican Republic
+79,Aerodienst GmbH,ADN,Germany
+80,Aerodiplomatic,ADP,Mexico
+81,Aerodyne,ADY,United States
+82,Avion Taxi,ADQ,Canada
+83,Adria Airways,ADR,Slovenia
+84,Aviones de Sonora,ADS,Mexico
+85,Air Dorval,ADT,Canada
+86,Airdeal Oy,ADU,Finland
+87,Advance Air Charters,ADV,Canada
+88,Air Andaman,ADW,Thailand
+89,Anderson Aviation,ADX,United States
+90,Air Europa,AEA,Spain
+91,Air Southwest Ltd.,ASW,Canada
+92,Air Special,ASX,Czech Republic
+93,Aero Benin,AEB,Benin
+94,Aerocesar,AEC,AEROCESAR
+95,Aerotrans Airlines,AED,Russia
+96,Aegean Airlines,AEE,Greece
+97,Aerofumigaciones Sam,AEG,Chile
+98,Aeroexpreso Interamericano,AEI,Colombia
+99,Air Express,AEJ,Tanzania
+100,Aerocon,AEK,Bolivia
+101,Aero Madrid,AEM,Spain
+102,Aeroenlaces Nacionales,AEN,Mexico
+103,Aeroservicios Ejecutivos Del Occidente,AEO,Mexico
+104,Aerotec,AEP,Spain
+105,Air Atlantique,AAG,United Kingdom
+106,Air Europe,AEL,Italy
+107,Air Alma,AAJ,Canada
+108,Air Express,AEQ,Sweden
+109,Alaska Central Express,AER,United States
+110,ACES Colombia,AES,Colombia
+111,Aeronautical Radio of Thailand,AET,Thailand
+112,Astraeus,AEU,United Kingdom
+113,Aeroventas,AEV,Mexico
+114,Aerosvit Airlines,AEW,Ukraine
+115,Airway Express,AEX,United States
+116,Air Italy,AEY,Italy
+117,Aerial Transit Company,AEZ,United States
+118,Alfa Air,AFA,Czech Republic
+119,American Falcon,AFB,Argentina
+120,Alliance Airlines,UTY,Australia
+121,Air Universal,UVS,Sierra Leone
+122,Auvia Air,UVT,Indonesia
+123,African West Air,AFC,Senegal
+124,Airfast Indonesia,AFE,Indonesia
+125,Ariana Afghan Airlines,AFG,Afghanistan
+126,Air Fecteau,AFH,Canada
+127,Africaone,AFI,Uganda
+128,Alliance,AFJ,Uganda
+129,Africa Air Links,AFK,Sierra Leone
+130,Aeroflot Russian Airlines,AFL,Russia
+131,Aero Empresa Mexicana,AFO,Mexico
+132,Air Bosna,BON,Bosnia and Herzegovina
+133,Air Bravo,BRF,Uganda
+134,Air Brasd'or,BRL,Canada
+135,Air 500,BRM,Canada
+136,Alba Servizi Aerotrasporti,AFQ,Italy
+137,Air France,AFR,France
+138,Air Partner,ACG,United Kingdom
+139,Air Caledonie International,ACI,France
+140,Air Caledonia,ACM,Canada
+141,Air Guam,AGM,United States
+142,Air Gabon,AGN,Gabon
+143,Air Data,AFS,United Kingdom
+144,Air Afrique Vacancies,AFV,Ivory Coast
+145,Air Cargo America,MVM,United States
+146,Air Salone,,Sierra Leone
+147,Air-Angol,NGO,Angola
+148,Air Nigeria,NGP,Nigeria
+149,Air Cargo Carriers,SNC,United States
+150,Air Samarkand,SND,Uzbekistan
+151,Air Senegal International,SNG,Senegal
+152,Air Sandy,SNY,Canada
+153,Air Namibia,NMB,Namibia
+154,Air Intersalonika,NSK,Greece
+155,Air Anatolia,NTL,Turkey
+156,Air Saigon,SGA,Vietnam
+157,Afrique Regional Airways,AFW,Ivory Coast
+158,Airfreight Express,AFX,United Kingdom
+159,Africa Chartered Services,AFY,Nigeria
+160,Africa Freight Services,AFZ,Zambia
+161,Aeronaves Del Centro,AGA,Venezuela
+162,Air Service Gabon,AGB,Gabon
+163,Arab Agricultural Aviation Company,AGC,Egypt
+164,Atlantic Gulf Airlines,AGF,United States
+165,Aerolitoral,SLI,Mexico
+166,Algoma Airways,AGG,Canada
+167,Altagna,AGH,France
+168,Angola Air Charter,AGO,Angola
+169,Angola Air Charter,AGO,Angola
+170,AERFI Group,AGP,Ireland
+171,Aerogala,AGQ,Chile
+172,Amadeus Global Travel Distribution,AGT,Spain
+173,Angara Airlines,AGU,Russia
+174,Air Glaciers,AGV,Switzerland
+175,Aero Gambia,AGW,Gambia
+176,Aviogenex,AGX,Serbia
+177,Atlantic Coast Airlines,BLR,United States
+178,Aero Barloz,BLZ,Mexico
+179,Aeroper,PLI,Peru
+180,Atlas Blue,BMM,Morocco
+181,Aero Banobras,BNB,Mexico
+182,Aero Flight Service,AGY,United States
+183,Agrolet-Mci,AGZ,Slovakia
+184,Air Alpha Greenland,AHA,Denmark
+185,Azal Avia Cargo,AHC,Azerbaijan
+186,Airport Helicopter Basel,AHE,AIRPORT HELICOPTER
+187,Aeroservices Corporate,CJE,France
+188,Aspen Helicopters,AHF,United States
+189,Aerochago Airlines,AHG,Dominican Republic
+190,Airplanes Holdings,AHH,Ireland
+191,Air Hong Kong,AHK,Hong Kong
+192,Aerochiapas,AHP,Mexico
+193,Air Adriatic,AHR,Croatia
+194,Air Viggi San Raffaele,AHS,Italy
+195,ABC Air Hungary,AHU,Hungary
+196,Aeromist-Kharkiv,AHW,Ukraine
+197,Azerbaijan Airlines,AHY,Azerbaijan
+198,Avies,AIA,Estonia
+199,Airbus Industrie,AIB,France
+200,Alpine Air Chile,AIH,Chile
+201,Air Integra,AII,Canada
+202,ABC Aerolineas,AIJ,Mexico
+203,African Airlines International Limited,AIK,Kenya
+204,African International Airways,AIN,Swaziland
+205,Alpine Air Express,AIP,United States
+206,Alicante Internacional Airlines,AIU,Spain
+207,Aba Air,ABP,Czech Republic
+208,Airblue,ABQ,Pakistan
+209,Airmark Aviation,THM,Thailand
+210,Airlift International,AIR,United States
+211,Airest,AIT,Estonia
+212,Air Baffin,BFF,Canada
+213,Air Bandama,BDM,Ivory Coast
+214,Air Berlin,BER,Germany
+215,Air Brousse,ABT,Canada
+216,Air Contractors,ABR,Ireland
+217,Air Illinois,AIL,United States
+218,Air India Limited,AIC,India
+219,Air Inter Gabon,AIG,Gabon
+220,Air Bourbon,BUB,Reunion
+221,Air Atlanta Icelandic,ABD,Iceland
+222,Air Inuit,AIE,Canada
+223,Air Sureste,AIS,Spain
+224,Air Srpska,SBK,Bosnia and Herzegovina
+225,Air Tahiti Nui,THT,France
+226,Airvias S/A Linhas Aereas,AIV,Brazil
+227,Aero Services Executive,BES,France
+228,Atlantic Island Airways,AIW,Canada
+229,Aircruising Australia,AIX,Australia
+230,Aircrew Check and Training Australia,AIY,Australia
+231,Arkia Israel Airlines,AIZ,Israel
+232,A J Services,AJA,United Kingdom
+233,Aero JBR,AJB,Mexico
+234,Aero Jet Express,AJE,Mexico
+235,Avia Consult Flugbetriebs,AJF,Austria
+236,Ameristar Jet Charter,AJI,United States
+237,A2 Jet Leasing,AJJ,United States
+238,Allied Air,AJK,Nigeria
+239,Air Jamaica,AJM,Jamaica
+240,Air One,ADH,Italy
+241,Air Sahara,RSH,India
+242,Air Malta,AMC,Malta
+243,Aeroejecutivo,AJO,Mexico
+244,Aero Jets Corporativos,AJP,Mexico
+245,Aeroejecutivos Colombia,AJS,Colombia
+246,Amerijet International,AJT,United States
+247,Air Jetsul,AJU,Portugal
+248,ANA & JP Express,AJV,Japan
+249,Alpha Jet International,AJW,United States
+250,Air Japan,AJX,Japan
+251,Ajet,AJY,Cyprus
+252,Air Korea Co. Ltd.,AKA,Republic of Korea
+253,Air Livonia,LIV,Estonia
+254,Air BC,ABL,Canada
+255,Air Fret Senegal,ABN,Senegal
+256,Air Jamahiriya Company,LJA,Libya
+257,Aktjubavia,AKB,Kazakhstan
+258,Arca Aerovias Colombianas Ltda.,AKC,Colombia
+259,Anikay Air Company,AKF,Kyrgyzstan
+260,Akhal,AKH,Turkmenistan
+261,Aeromilenio,MNI,Mexico
+262,Aklak Air,AKK,Canada
+263,Air Kiribati,AKL,Kiribati
+264,Alkan Air,AKN,Canada
+265,Angkor Airways,AKW,Cambodia
+266,Air Nippon Network Co. Ltd.,AKX,Japan
+267,AK Navigator LLC,AKZ,Kazakhstan
+268,Aero Albatros,ALB,Mexico
+269,Albion Aviation,ALD,United Kingdom
+270,Aeroalas Colombia,ALE,Colombia
+271,Allied Command Europe (Mobile Force),ALF,Belgium
+272,Aerotaxis Albatros,BTS,Mexico
+273,American Flyers,FYS,United States
+274,Aero Coach Aviation,DFA,United States
+275,Atlantic Southeast Airlines,CAA,United States
+276,ACM Air Charter,BVR,Germany
+277,Air Logistics,ALG,United States
+278,Aerovallarta,ALL,Mexico
+279,Air ALM,ALM,Netherlands Antilles
+280,Air Lincoln,ALN,United States
+281,America West Airlines,AWE,United States
+282,Air Wisconsin,AWI,United States
+283,Aerotransporte de Carga Union,TNO,Mexico
+284,Aero Taxis Cessna,TND,Mexico
+285,Arizona Express Airlines,TMP,United States
+286,Tatarstan Airlines,TAK,Russia
+287,Allegheny Commuter Airlines,ALO,United States
+288,Alpliner AG,ALP,Switzerland
+289,Altair Aviation (1986),ALQ,Canada
+290,Air Luxor STP,ALU,Sao Tome and Principe
+291,Alas de Venezuela,ALV,Venezuela
+292,Alas Nacionales,ALW,ALNACIONAL
+293,Alyeska Air Service,ALY,United States
+294,Alta Flights (Charters) Ltd.,ALZ,Canada
+295,Air Sunshine,RSI,United States
+296,ATMA,AMA,Kazakhstan
+297,Aerolineas Medellin,AMD,Colombia
+298,Ameriflight,AMF,United States
+299,Air Libert,,France
+300,Air Lithuania,KLA,Lithuania
