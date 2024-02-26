@@ -7,7 +7,10 @@ More details are below, pick up your copy today!
 
 **A data engineer's guide to building and managing ETL and ELT pipelines with data integration**
 
-The authors of this book are - [Dmitry Foshin](https://www.linkedin.com/in/dmitryfoshin/) [Tonya Chernyshova](https://www.linkedin.com/in/a-chernyshova/) [Dmitry Anoshin](https://www.linkedin.com/in/dmitryanoshin/) [Xenia Hertzenberg](https://www.linkedin.com/in/xeniah/)
+The authors of this book are - [Dmitry Foshin](https://www.linkedin.com/in/dmitryfoshin/)     
+[Tonya Chernyshova](https://www.linkedin.com/in/a-chernyshova/) 
+[Dmitry Anoshin](https://www.linkedin.com/in/dmitryanoshin/) 
+[Xenia Hertzenberg](https://www.linkedin.com/in/xeniah/)
 
 ## About the book
 
