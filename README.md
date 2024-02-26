@@ -7,10 +7,11 @@ More details are below, pick up your copy today!
 
 **A data engineer's guide to building and managing ETL and ELT pipelines with data integration**
 
-The authors of this book are - [Dmitry Foshin](https://www.linkedin.com/in/dmitryfoshin/)     
-[Tonya Chernyshova](https://www.linkedin.com/in/a-chernyshova/) 
-[Dmitry Anoshin](https://www.linkedin.com/in/dmitryanoshin/) 
-[Xenia Hertzenberg](https://www.linkedin.com/in/xeniah/)
+The authors of this book are :
+- [Dmitry Foshin](https://www.linkedin.com/in/dmitryfoshin/)
+- [Tonya Chernyshova](https://www.linkedin.com/in/a-chernyshova/)
+- [Dmitry Anoshin](https://www.linkedin.com/in/dmitryanoshin/)
+- [Xenia Hertzenberg](https://www.linkedin.com/in/xeniah/)
 
 ## About the book
 
@@ -49,12 +50,16 @@ The authors of this book are - [Dmitry Foshin](https://www.linkedin.com/in/dmitr
 11. [Working with Azure Data Explorer](https://github.com/PacktPublishing/Azure-Data-Factory-Cookbook-Second-Edition/tree/main/Chapter11)
 12. [The Best Practices of Working with ADF](https://github.com/PacktPublishing/Azure-Data-Factory-Cookbook-Second-Edition/tree/main/Chapter12)
 
+
+
+
+
 ### Chapter 01, Getting Started with ADF
 .
 
 
 #### Key Insights:
--	**Dynamic Nature of ML** : The chapter highlights how the field of machine learning has evolved significantly in recent years, with the emergence of more powerful modeling techniques, complex technology stacks, and new frameworks. This evolution underscores the importance of staying up-to-date with the latest trends and tools in ML engineering.
+
 
 
 ### Chapter 02, Orchestration and Control Flow
