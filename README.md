@@ -56,10 +56,7 @@ The authors of this book are :
 
 ### Chapter 01, Getting Started with ADF
 .
-
-
 #### Key Insights:
-
 
 
 ### Chapter 02, Orchestration and Control Flow
