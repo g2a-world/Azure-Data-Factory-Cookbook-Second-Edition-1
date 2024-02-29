@@ -14,7 +14,10 @@ The authors of this book are :
 - [Xenia Hertzenberg](https://www.linkedin.com/in/xeniah/)
 
 ## About the book
-
+This new edition of the Azure Data Factory Cookbook, fully updated to reflect ADS V2, will help you get up and running by showing you how to create and execute your first job in ADF. 
+You’ll learn how to branch and chain activities, create custom activities, and schedule pipelines, as well as discover the benefits of Cloud Data Warehousing, Azure Synapse Analytics, and Azure Data Lake Storage Gen2. 
+With practical recipes, you’ll learn how to actively engage with analytical tools from Azure Data Services and leverage your on-premises infrastructure with cloud-native tools to get relevant business insights. As you advance, you’ll be able to integrate the most commonly used Azure Services into ADF and understand how Azure services can be useful in designing ETL pipelines. You'll familiarize yourself with the common errors that you may encounter while working with ADF and find out how to use the Azure portal to monitor pipelines. You’ll also understand error messages and resolve problems in Connectors and Data Flows with the debugging capabilities of ADF. 
+By the end of this book, you’ll be able to use ADF as the main ETL and orchestration tool for your data warehouse or data platform projects. 
 
 
  
@@ -29,13 +32,19 @@ The authors of this book are :
 - Copy data from AWS S3 and Google Cloud Storage to Azure Storage using ADF's built-in connectors
 
 
-## What's New
+## New Edition v/s Previous Edition
+The new edition of the Azure Data Factory Cookbook builds upon the previous edition by providing updated insights into ADS V2 and emphasizing practical recipes for tackling real-world data challenges. It extends coverage into Cloud Data Warehousing, Azure Synapse Analytics, and Azure Data Lake Storage Gen2, offering readers a more comprehensive resource for mastering orchestration, custom activities, and Azure service integration. 
 
+
+## What's New
+In this edition, two new chapters have been added on Azure Data Explorer and Best Practices to enhance the reader's understanding. Additionally, fresh recipes have been added throughout the book covering pivotal topics such as Azure Synapse, Databricks, and Delta tables for Big Data pipelines. It also guides on migrating SSIS jobs to ADF and integrating with AWS S3 and Google Cloud Storage, ensuring comprehensive coverage of modern ETL practices. 
 
 
 ## Outline and Chapter Summary
-
-
+**Azure Data Factory** (**ADF**) is a modern data integration tool available on Microsoft Azure. This Azure Data Cookbook, Second Edition helps you get up and running by showing you how to create and execute your first job in ADF. You will learn how to branch and chain activities, create custom activities, and schedule pipelines. This book will help you discover the benefits of Cloud Data Warehousing, Azure Synapse Analytics, Azure Data Lake Storage Gen2, and Databricks, which are frequently used for Big Data Analytics. Through practical recipes, you will learn how to actively engage with analytical tools from Azure Data Services and leverage your on-premises infrastructure with cloud-native tools to get relevant business insights. 
+As you advance, you will be able to integrate the most used Azure services into ADF and understand how Azure services can be useful in designing ETL pipelines. The book will take you through the common errors that you may encounter while working with ADF and guide you in using the Azure portal to monitor pipelines. You will also understand error messages and resolve problems in connectors and data flows with the debugging capabilities of ADF. 
+Additionally, there is also a focus on the latest innovative technology in Microsoft Fabric. You will explore how this technology enhances its capabilities for data integration and orchestration. 
+By the end of this book, you will be able to use ADF as the main ETL and orchestration tool for your Data Warehouse and Data Platform projects. 
 
 1. [Getting Started with ADF](https://github.com/PacktPublishing/Azure-Data-Factory-Cookbook-Second-Edition/tree/main/Chapter01)
 2. Orchestration and Control Flow
